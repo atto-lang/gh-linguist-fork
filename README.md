@@ -1,5 +1,9 @@
 # Linguist
 
+## AttoLang organization naming note (2026-11-18)
+
+This supporting tool/fork is hosted under the historical Oreslang organization. **AttoLang** is the current public name of the language (formerly Oreslang); its [language specification](https://github.com/atto-lang/atto-spec), [organization](https://github.com/atto-lang), and [portable conformance tests](https://github.com/atto-lang/atto-platform-conformance) live under `atto-lang`. This note **does not rename this independent tool, change its upstream identity, or imply a one-to-one AttoLang repository successor**. Preserve its own supported commands, scope and attribution below.
+
 [![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg)](https://github.com/github/linguist/actions) 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/github-linguist/linguist)
